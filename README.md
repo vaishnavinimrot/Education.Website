@@ -1,2 +1,1 @@
-# vaishnavinimrot-demo
-This is my first Git Repository
+# educational.github.io
